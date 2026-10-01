@@ -1,0 +1,31 @@
+{
+  "report_date": "2026-10-01",
+  "created_at": "2026-10-01T09:34:34+05:30",
+  "mode": "send",
+  "workbook": "D:\\GenAI-Eagle\\Day3\\Assignment\\Playwright\\Contact.xlsx",
+  "message": "Hello Good Morning",
+  "summary": {
+    "total_contacts": 2,
+    "sent": 2,
+    "preview": 0,
+    "failed": 0,
+    "pending": 0
+  },
+  "run_error": null,
+  "contacts": [
+    {
+      "name": "Sweet Heart",
+      "phone": "919731068782",
+      "message": "Hello Good Morning",
+      "status": "sent",
+      "error": null
+    },
+    {
+      "name": "Amma",
+      "phone": "919786410540",
+      "message": "Hello Good Morning",
+      "status": "sent",
+      "error": null
+    }
+  ]
+}
